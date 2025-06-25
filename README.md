@@ -55,6 +55,6 @@ A dynamic project management tool designed to automate date calculations, visual
    - **Compare Costs:** Track estimated versus actual costs by department and assignee.
 
 ---
-
+Watch our video https://youtu.be/9KqgWq56Izs
 If you have any questions visit our site www.smarterworker.co.uk/#contact and complete the form with your questions.
 
