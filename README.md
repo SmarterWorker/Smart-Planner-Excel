@@ -56,5 +56,5 @@ A dynamic project management tool designed to automate date calculations, visual
 
 ---
 
-If you have any questions
+If you have any questions visit our site www.smarterworker.co.uk/#contact and complete the form with your questions.
 
