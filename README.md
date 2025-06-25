@@ -1,4 +1,5 @@
-# Smart Planner With Budgets - Excel.# Project Planner: Automatic Date Calculation, Gantt Chart, and Budget Control
+# Smart Planner With Budgets - Excel.
+# Project Planner: Automatic Date Calculation, Gantt Chart, and Budget Control
 
 A dynamic project management tool designed to automate date calculations, visualise project timelines, and monitor budget performance.
 
